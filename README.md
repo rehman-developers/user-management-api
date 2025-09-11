@@ -31,6 +31,7 @@ cd user-management-api
 
 **###2. Install Dependencies**
 npm install
+npm start
 
 **###3. Setup Database in XAMPP**
 
@@ -91,3 +92,4 @@ delete-user.png
 **🧪 Postman Collection**
 The Postman collection is exported as:
 Import this into Postman to test all routes directly.
+
